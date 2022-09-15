@@ -6,7 +6,7 @@ This guide outlines some key Best Practice Guidelines for using remote sensing p
 
 - [Table of Contents](#table-of-contents)  
 - [Advantages of using remote sensing for weed control](#advantages-of-using-remote-sensing-for-weed-control)
-- [disadvantages of using remote sensing for weed control](#disadvantages-of-using-remote-sensing-for-weed-control)  
+- [Disadvantages of using remote sensing for weed control](#disadvantages-of-using-remote-sensing-for-weed-control)  
 - [Camera technologies](#camera-technologies)  
 
 ## Advantages of using remote sensing for weed control  
