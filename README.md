@@ -34,4 +34,4 @@ Are you new to remote sensing? Need practical advice on setting up remote sensin
 ## Who are we  
 
 The core team members are:  
-- [[Dr Jane Kelly](https://science-health.csu.edu.au/schools/ag-environmental-vet/staff/profiles/agriculture/jane-kelly)  
+- [Dr Jane Kelly](https://science-health.csu.edu.au/schools/ag-environmental-vet/staff/profiles/agriculture/jane-kelly)  
