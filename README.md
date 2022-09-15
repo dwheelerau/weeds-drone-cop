@@ -30,8 +30,9 @@ We encourage you to contribute to the Weeds Remote Sensing CoP! Please feel free
 
 The Weed Remote Sensing CoP follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
 ## Remote Sensing Best Practice guide  
-Are you new to remote sensing? Need practical advice on setting up remote sensing projects? If so a good starting point is our [Remote Sensing Best Practice Guide](www.google.com). The guide contains detailed information on the different remote sensing platforms, cameras, and details key project design principles.  
+Are you new to remote sensing? Need practical advice on setting up remote sensing projects? If so a good starting point is our [Remote Sensing Best Practice Guide](./best-practice.md). The guide contains detailed information on the different remote sensing platforms, cameras, and details key project design principles.  
 
 ## Who are we  
 
-The core team members are made up of xxx.  
+The core team members are  
+- [[Dr Jane Kelly](https://science-health.csu.edu.au/schools/ag-environmental-vet/staff/profiles/agriculture/jane-kelly)  
