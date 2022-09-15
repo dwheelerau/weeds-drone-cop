@@ -4,10 +4,12 @@ This guide outlines some key Best Practice Guidelines for using remote sensing p
 
 ## Advantages of using remote sensing for weed control  
 
-Remote sensing platforms offer many advantages over traditional methods for detecting weeds. 
+Remote sensing platforms offer many advantages over traditional methods for detecting weeds:  
+- digitalisation of the process facilitates the incorporation of AI assisted technologies (categorisation, segmentation)  
 
 
 ## disadvantages of using remote sensing for weed control  
+
 Key core disadvantages of using remote sensing for weed control:  
 - low image resolution  
 - short flight time of drone plantforms  

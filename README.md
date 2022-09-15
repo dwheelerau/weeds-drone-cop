@@ -13,7 +13,6 @@ The Weed Remote Sensing community of practice (CoP) is made up of a group of sci
 - [Remote Sensing Best Practice guide](#remote-sensing-best-practice-guide)  
 - [Who are we](#who-are-we)
 
-V
 ## Community and Support  
 
 Baldsflkasjfkasdj fklajsdkfj adksjf lkasdjfkl ajsdflkj asdfjdaksjf klajsdflk jaskdfj adksjfklasd jlkfjsad jfklasdj lkfjasdf jdasjf lkasdjflk asjdklfj as
@@ -34,5 +33,5 @@ Are you new to remote sensing? Need practical advice on setting up remote sensin
 
 ## Who are we  
 
-The core team members are  
+The core team members are:  
 - [[Dr Jane Kelly](https://science-health.csu.edu.au/schools/ag-environmental-vet/staff/profiles/agriculture/jane-kelly)  
