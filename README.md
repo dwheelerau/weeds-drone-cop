@@ -2,7 +2,7 @@
 <img src="./images/logo.png" style="width:200px;" />
 
 ## Welcome to the Weed Remote Sensing community of practice github page  
-The Weed Remote Sensing community of practice (CoP) is made up of a group of scientists and stakeholders who seek to better manage weeds through the use of advanced remote sensing technologies.  
+The Weed Remote Sensing Community of Practice (CoP) is made up of a group of scientists and stakeholders who seek to better manage weeds through the use of advanced remote sensing technologies.  
 
 ## Table of Contents
 
