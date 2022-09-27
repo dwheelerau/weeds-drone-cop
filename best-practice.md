@@ -17,9 +17,10 @@ This guide outlines some key Best Practice Guidelines for using remote sensing p
 - [Disadvantages of using remote sensing for weed control](#disadvantages-of-using-remote-sensing-for-weed-control)  
 
 ## What is remote weed detection?
-Bla bla...  
+ToDo...   
 
 ## Aims and applications of remote detection  
+ToDo..  
 
 ## Knowing your species and landscape
 - Weed phenology and temporal changes 
@@ -29,10 +30,10 @@ Bla bla...
 - Terrain access 
 - Internet access for georeferencing 
 
-## Data capture platforms 
+## Data capture platforms   
 Ideas: Using project case studies to highlight aspects of each section – invite others to add their case studies to each section – include a template to fill out on their work, with links to contacts/data. Could also be set up this way in the analysis section - Ability to cross reference weed and sensor in search- case studies include a number of weeds investigated that are listed under each sensor, but can be searched via weed or sensor.
 
-### Know your aerial platform
+### Know your aerial platform  
 
 Unmanned aerial vehicles (UAVs) 
 - Features 
@@ -47,7 +48,7 @@ Satellite
 - Considerations 
 - Access  
 
-## Mission planning  
+## Mission planning   
 Links to broad information, and including some more specifics associated with weeds. Could include the GeoNADIR pdf (with permission) on the website 
 - Equipment, safety and flight regulations/restrictions 
 - Planning software 
@@ -57,7 +58,7 @@ Links to broad information, and including some more specifics associated with we
 - Batteries, SD cards 
 - Recording flight data 
 
-## Ground truthing protocols  
+## Ground truthing protocols   
 - What is ground truthing and when is it undertaken? 
 - What are ground control points and why are they important? 
 - Alignment of imagery 
