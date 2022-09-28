@@ -74,11 +74,16 @@ Links to broad information, and including some more specifics associated with we
 
 
 ## Tips for using drones effectively  
-### safety  
+### safety
+ToDo  
 ### image overlap and flight path design 
+ToDo  
 ### altitude
+ToDo  
 ### camera angle
+ToDo  
 ### time of day and weather considerations
+ToDo  
 ### etc  
 
 
