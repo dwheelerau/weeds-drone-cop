@@ -27,7 +27,8 @@ We encourage you to contribute to the Weeds Remote Sensing CoP! Please feel free
 
 ## Code of Conduct  
 
-The Weed Remote Sensing CoP follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
+The Weed Remote Sensing CoP follows the [CNCF Code of Conduct](https://github.com/dwheelerau/foundation/blob/main/code-of-conduct.md)
+
 ## Remote Sensing Best Practice guide  
 Are you new to remote sensing? Do you need practical advice on setting up a remote sensing projects? If so a good starting point is our [Remote Sensing Best Practice Guide](./best-practice.md). This guide contains detailed information on the different remote sensing platforms, cameras, as well as some key project design principles.  
 
