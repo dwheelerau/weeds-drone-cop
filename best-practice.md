@@ -2,7 +2,7 @@
 
 **Compiled by Dr Jane Kelly (Charles Sturt University)**
 
- ![Picture 1](RackMultipart20230302-1-z8asey_html_4f2c105310cf0455.gif)
+ ![](./images/fig1.png)
 
 # Table of contents
 
@@ -34,7 +34,7 @@ However, there are numerous challenges associated with the use of this technolog
 
 - Weed phenology and temporal changes (JK & HC)
 - Look-alike species and phenology and temporal changes (JK & HC)
-- Terrain features(JK & HC)
+- Terrain features (JK & HC)
 - Selecting a mapping site (RD)
 - Terrain access (RD)
 - Internet access for georeferencing (RD)
@@ -43,10 +43,7 @@ However, there are numerous challenges associated with the use of this technolog
 
 Ideas: Using project case studies to highlight aspects of each section – invite others to add their case studies to each section – could include a template to fill out on their work, with links to contacts/data.
 
-#### Know your aerial platform
-
-**Unmanned Aerial Vehicles (UAVs) – features and considerations**
-
+#### Know your aerial platform: Unmanned Aerial Vehicles (UAVs) – features and considerations
 UAVs come in a variety of types, shapes and sizes, with their design typically driven by application and endurance requirements. For example, large landscape surveys require UAV's that have long flight times and, in most cases, aeroplanes are a more suitable designed platform. Where smaller areas with variable terrain need to be covered then a multirotor may be more suitable.
 
 
@@ -57,21 +54,19 @@ The electric-powered wing design is favoured by most manufactures in the survey 
 
 Larger platforms are also available and these are capable of carrying multiple payloads along with potentially delivering nutrients and herbicides. However, the larger wingspans typically limit the portability of these platforms due to their size along with many of the platforms typically have wheeled undercarriages that require designated areas suitable for taking off and landing. However, increased flight times and multiple camera systems (mutlispectral, optical, hyperspectral, thermal) may offer advantages for mapping or monitoring larger more complex agricultural systems.
 
-**ToDo:** Fig. 1. Image of aeroplane here from Remy
+**ToDo:** Fig. 2. Image of aeroplane here from Remy
 
 *Multi-rotors*:  
-Multi-rotors come in a number of designs e.g. quad, hex and octocopters named by the number of propellers used to launch the copter into the air. Multi-rotors can carry variable payloads depending on the design of the motor and propeller combination, but typical quadcopter systems have the greatest flight times but the least redundancy in terms of electronic or motor failure. Their ability to take off and hover directly at the site of interest along with their high maneuverability make them very useful in small survey applications. Flight times range from 10 minutes to up to 60 minutes in a very few high 7 end multi-copter platforms but flight times are typically reduced dramatically as payload is increased. The typical coverage ranges between 30-100 hectares for a 20-minute flight. DJI is one of the largest manufacturers of multi-copter turnkey systems along with 3DR Robotics whose open-source autopilot can be configured for a range of multi-copter, aeroplane and helicopter platforms. Pricing for multi-copter systems is extremely variable with DJI Phantom 3 quadcopter using a modified blue/NIR camera costing around USD $2500. Larger systems capable of carrying heavy payloads range in the USD$ 10-40K range. A good article showing a small range of the commercially available systems for agriculture can be found here: [http://dronelife.com/2015/10/14/7-best-agricultural-drones-market](http://dronelife.com/2015/10/14/7-best-agricultural-drones-market)
+Multi-rotors come in a number of designs e.g. quad, hex and octocopters named by the number of propellers used to launch the copter into the air. Multi-rotors can carry variable payloads depending on the design of the motor and propeller combination, but typical quadcopter systems have the greatest flight times but the least redundancy in terms of electronic or motor failure. Their ability to take off and hover directly at the site of interest along with their high maneuverability make them very useful in small survey applications. Flight times range from 10 minutes to up to 60 minutes in a very few high 7 end multi-copter platforms but flight times are typically reduced dramatically as payload is increased. The typical coverage ranges between 30-100 hectares for a 20-minute flight. DJI is one of the largest manufacturers of multi-copter turnkey systems along with 3DR Robotics whose open-source autopilot can be configured for a range of multi-copter, aeroplane and helicopter platforms. Pricing for multi-copter systems is extremely variable with DJI Phantom 3 quadcopter using a modified blue/NIR camera costing around 2500 USD. Larger systems capable of carrying heavy payloads range in the 10-40K USD range. A good article showing a small range of the commercially available systems for agriculture can be found [here](http://dronelife.com/2015/10/14/7-best-agricultural-drones-market):  
 
-![](RackMultipart20230302-1-z8asey_html_39d114e45064a679.jpg)
-
-**Fig. 2**. M600 **ToDo**(include description from Remy). Source: Dr Jane Kelly, CSU
+![Fig. 3 M600 **ToDo** include description from Remy. Source: Dr Jane KellyCSU](./images/fig2.png)
 
 *Helicopters:*  
 Helicopters are to a lesser extent currently used for agricultural and environmental surveillance, typically because of their complexity and cost. Very few dedicated helicopter platforms have suitable reliable autopilot systems and those that do typically cost in the order of hundreds of thousands of dollars. However, many helicopter systems have great potential with the ability to land directly at the field site and hover extended periods of time. With further autopilot development, helicopters may benefit agriculture and environmental monitoring in areas outside remote sensing. Many of the large helicopters are capable of carrying large payloads in the order of 20-40kg for extended periods of times. This may be useful in areas such as herbicide and pesticide delivery along with nutrient delivery. A good example of the high-end helicopter is the Yamaha R-Max which is capable of carrying 28kg of payload and has both granular and liquid spraying capacities. Details of the R- MAX system can be found [here](http://rmax.yamaha-motor.com.au/specifications). Charles Sturt University and the author have developed a helicopter system capable of carrying a hyperspectral camera to determine if hyperspectral data enhances weed detection in weed trials.
 
 Details can be found [here](http://www.caws.org.au/awc/2012/awc201211031.pdf).  
 
-**Fig. 3.** **ToDo**Example of helicopter from Remy
+**Fig. 4.** **ToDo**Example of helicopter from Remy
 
 **Fixed wing**
 
