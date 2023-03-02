@@ -17,6 +17,7 @@
     - [6. Data processing](#6-data-processing)
     - [7. Disadvantages of using remote sensing for weed control](#7-disadvantages-of-using-remote-sensing-for-weed-control)
     - [8. Publications](#8-publications)
+    - [9. Acknowledgments](#9-acknowledgments)
 
 ## Introduction - remote weed detection
 
@@ -191,6 +192,19 @@ Could have a spot to add further papers from COP members.
 There should be a description of th COP and link to join
 
 List or links to service providers for more assistance
+
+### 9. Acknowledgments  
+
+#### funders  
+- ToDo  
+- ToDo 
+
+#### Volunteers?  
+- ToDo?
+
+#### Technical   
+- Dave Wheeler (NSWDPI) documentation  
+
 
 **References**
 
