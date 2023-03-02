@@ -48,7 +48,6 @@ Larger platforms are also available and these are capable of carrying multiple p
 **ToDo:** Fig. 1. Image of aeroplane here from Remy
 
 *Multi-rotors*:  
-
 Multi-rotors come in a number of designs e.g. quad, hex and octocopters named by the number of propellers used to launch the copter into the air. Multi-rotors can carry variable payloads depending on the design of the motor and propeller combination, but typical quadcopter systems have the greatest flight times but the least redundancy in terms of electronic or motor failure. Their ability to take off and hover directly at the site of interest along with their high maneuverability make them very useful in small survey applications. Flight times range from 10 minutes to up to 60 minutes in a very few high 7 end multi-copter platforms but flight times are typically reduced dramatically as payload is increased. The typical coverage ranges between 30-100 hectares for a 20-minute flight. DJI is one of the largest manufacturers of multi-copter turnkey systems along with 3DR Robotics whose open-source autopilot can be configured for a range of multi-copter, aeroplane and helicopter platforms. Pricing for multi-copter systems is extremely variable with DJI Phantom 3 quadcopter using a modified blue/NIR camera costing around USD $2500. Larger systems capable of carrying heavy payloads range in the USD$ 10-40K range. A good article showing a small range of the commercially available systems for agriculture can be found here: [http://dronelife.com/2015/10/14/7-best-agricultural-drones-market](http://dronelife.com/2015/10/14/7-best-agricultural-drones-market)
 
 ![](RackMultipart20230302-1-z8asey_html_39d114e45064a679.jpg)
@@ -56,11 +55,11 @@ Multi-rotors come in a number of designs e.g. quad, hex and octocopters named by
 **Fig. 2**. M600 **ToDo**(include description from Remy). Source: Dr Jane Kelly, CSU
 
 *Helicopters:*  
-Helicopters are to a lesser extent currently used for agricultural and environmental surveillance, typically because of their complexity and cost. Very few dedicated helicopter platforms have suitable reliable autopilot systems and those that do typically cost in the order of hundreds of thousands of dollars. However, many helicopter systems have great potential with the ability to land directly at the field site and hover extended periods of time. With further autopilot development, helicopters may benefit agriculture and environmental monitoring in areas outside remote sensing. Many of the large helicopters are capable of carrying large payloads in the order of 20-40kg for extended periods of times. This may be useful in areas such as herbicide and pesticide delivery along with nutrient delivery. A good example of the high-end helicopter is the Yamaha R-Max which is capable of carrying 28kg of payload and has both granular and liquid spraying capacities. Details of the R- MAX system can be found here http://rmax.yamaha-motor.com.au/specifications. Charles Sturt University and the author have developed a helicopter system capable of carrying a hyperspectral camera to determine if hyperspectral data enhances weed detection in weed trials.
+Helicopters are to a lesser extent currently used for agricultural and environmental surveillance, typically because of their complexity and cost. Very few dedicated helicopter platforms have suitable reliable autopilot systems and those that do typically cost in the order of hundreds of thousands of dollars. However, many helicopter systems have great potential with the ability to land directly at the field site and hover extended periods of time. With further autopilot development, helicopters may benefit agriculture and environmental monitoring in areas outside remote sensing. Many of the large helicopters are capable of carrying large payloads in the order of 20-40kg for extended periods of times. This may be useful in areas such as herbicide and pesticide delivery along with nutrient delivery. A good example of the high-end helicopter is the Yamaha R-Max which is capable of carrying 28kg of payload and has both granular and liquid spraying capacities. Details of the R- MAX system can be found [here](http://rmax.yamaha-motor.com.au/specifications). Charles Sturt University and the author have developed a helicopter system capable of carrying a hyperspectral camera to determine if hyperspectral data enhances weed detection in weed trials.
 
-Details can be found here at [http://www.caws.org.au/awc/2012/awc201211031.pdf](http://www.caws.org.au/awc/2012/awc201211031.pdf)
+Details can be found [here](http://www.caws.org.au/awc/2012/awc201211031.pdf).  
 
-**Fig. 3.** Example of helicopter from Remy
+**Fig. 3.** **ToDo**Example of helicopter from Remy
 
 **Fixed wing**
 
@@ -68,17 +67,11 @@ Features - considerations
 
 **Satellite**
 
-##
-
-1.
-## Mission planning
-
+## 3. Mission planning  
 Links to broad information, and including some more specifics associated with weeds. Could include the GeoNADIR pdf (with permission) on the website - Equipment, safety and flight regulations/restrictions - Planning software - Selecting altitudes/ pixel size - Weather, light and terrain
  - Flight path and map - Batteries, SD cards - Recording flight data
 
-1.
-## Ground truthing protocols
-
+## 4. Ground truthing protocols
 - What is ground truthing and when is it undertaken?
 - What are ground control points and why are they important?
 - Alignment of imagery and importance of spatial resolution
@@ -86,8 +79,7 @@ Links to broad information, and including some more specifics associated with we
 - Weather and landscape data
 - Georeference data
 
-1.
-## Environmental Sensors
+## 5. Environmental Sensors
 
 ### safety
 
@@ -107,7 +99,7 @@ Links to broad information, and including some more specifics associated with we
 
 - limitations
 
-### RGB
+### RGB  
 
 - Features
 - Considerations
@@ -115,7 +107,7 @@ Links to broad information, and including some more specifics associated with we
 - Sensor settings
 - Data file management
 
-### Multispectral
+### Multispectral  
 
 - Features
 - Considerations
@@ -123,7 +115,7 @@ Links to broad information, and including some more specifics associated with we
 - Sensor settings
 - Data file management
 
-### Hyperspectral
+### Hyperspectral  
 
 - Features
 - Considerations
@@ -131,8 +123,7 @@ Links to broad information, and including some more specifics associated with we
 - Sensor settings
 - Data file management
 
-1.
-## Data processing
+## 6. Data processing  
 
 **RGB imagery**
 
@@ -148,10 +139,6 @@ Create case study with HW to share as a template – may help to refine the info
 
 Could have different sections targeting different levels of complexity – different section about processing for landholder to what we say to someone already working in processing.
 
-###
-
-###
-
 ### Data records and outputs
 
 - what format?
@@ -162,10 +149,6 @@ Could have different sections targeting different levels of complexity – diffe
 - video or RGB images
 - flight logs
 - weather
-
-###
-
-###
 
 ### Artificial Intelligence algorithms - detection
 
@@ -195,9 +178,8 @@ Key core disadvantages of using remote sensing for weed control:
 
 Etc
 
-1.
-## Publications
 
+## 7. Publications  
 Here is listed the publications, reports, conference papers from the project. This could be a separate page for each, or a summary of each paper, with main learnings set out in dotpoint form and a link to the paper.
 
 Could have a spot to add further papers from COP members.
