@@ -4,7 +4,19 @@
 
  ![Picture 1](RackMultipart20230302-1-z8asey_html_4f2c105310cf0455.gif)
 
-# **Contents**
+# Table of contents
+
+- [A guide for the detection of weeds in mixed landscapes using remote sensing technologies](#a-guide-for-the-detection-of-weeds-in-mixed-landscapes-using-remote-sensing-technologies)
+  - [Introduction - remote weed detection](#introduction---remote-weed-detection)
+  - [Aims and applications of remote detection](#aims-and-applications-of-remote-detection)
+    - [1. Knowing your species and landscape](#1-knowing-your-species-and-landscape)
+    - [2. Data capture platforms](#2-data-capture-platforms)
+    - [3. Mission planning](#3-mission-planning)
+    - [4. Ground truthing protocols](#4-ground-truthing-protocols)
+    - [5. Environmental Sensors](#5-environmental-sensors)
+    - [6. Data processing](#6-data-processing)
+    - [7. Disadvantages of using remote sensing for weed control](#7-disadvantages-of-using-remote-sensing-for-weed-control)
+    - [8. Publications](#8-publications)
 
 ## Introduction - remote weed detection
 
@@ -67,11 +79,11 @@ Features - considerations
 
 **Satellite**
 
-## 3. Mission planning  
+### 3. Mission planning  
 Links to broad information, and including some more specifics associated with weeds. Could include the GeoNADIR pdf (with permission) on the website - Equipment, safety and flight regulations/restrictions - Planning software - Selecting altitudes/ pixel size - Weather, light and terrain
  - Flight path and map - Batteries, SD cards - Recording flight data
 
-## 4. Ground truthing protocols
+### 4. Ground truthing protocols
 - What is ground truthing and when is it undertaken?
 - What are ground control points and why are they important?
 - Alignment of imagery and importance of spatial resolution
@@ -79,27 +91,25 @@ Links to broad information, and including some more specifics associated with we
 - Weather and landscape data
 - Georeference data
 
-## 5. Environmental Sensors
+### 5. Environmental Sensors
 
-### safety
+#### safety
 
-### image overlap and flight path design
+#### image overlap and flight path design
 
-### altitude
+#### altitude
 
-### camera angle
+#### camera angle
 
-### time of day and weather considerations
+#### time of day and weather considerations
 
-### etc
+#### etc
 
-##
-
-### General considerations
+#### General considerations
 
 - limitations
 
-### RGB  
+#### RGB  
 
 - Features
 - Considerations
@@ -107,7 +117,7 @@ Links to broad information, and including some more specifics associated with we
 - Sensor settings
 - Data file management
 
-### Multispectral  
+#### Multispectral  
 
 - Features
 - Considerations
@@ -115,7 +125,7 @@ Links to broad information, and including some more specifics associated with we
 - Sensor settings
 - Data file management
 
-### Hyperspectral  
+#### Hyperspectral  
 
 - Features
 - Considerations
@@ -123,7 +133,7 @@ Links to broad information, and including some more specifics associated with we
 - Sensor settings
 - Data file management
 
-## 6. Data processing  
+### 6. Data processing  
 
 **RGB imagery**
 
@@ -139,7 +149,7 @@ Create case study with HW to share as a template – may help to refine the info
 
 Could have different sections targeting different levels of complexity – different section about processing for landholder to what we say to someone already working in processing.
 
-### Data records and outputs
+#### Data records and outputs
 
 - what format?
 - shareable
@@ -150,7 +160,7 @@ Could have different sections targeting different levels of complexity – diffe
 - flight logs
 - weather
 
-### Artificial Intelligence algorithms - detection
+#### Artificial Intelligence algorithms - detection
 
 - automation
 - common algorithms
@@ -160,8 +170,7 @@ Could have different sections targeting different levels of complexity – diffe
 - measurement of error
 - no code and low code cloud platforms for AI (warnings)
 
-1.
-## Disadvantages of using remote sensing for weed control
+### 7. Disadvantages of using remote sensing for weed control
 
 Key core disadvantages of using remote sensing for weed control:
  - low image resolution
@@ -179,7 +188,7 @@ Key core disadvantages of using remote sensing for weed control:
 Etc
 
 
-## 7. Publications  
+### 8. Publications  
 Here is listed the publications, reports, conference papers from the project. This could be a separate page for each, or a summary of each paper, with main learnings set out in dotpoint form and a link to the paper.
 
 Could have a spot to add further papers from COP members.
