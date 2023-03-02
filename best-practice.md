@@ -1,66 +1,10 @@
 # A guide for the detection of weeds in mixed landscapes using remote sensing technologies
 
-**Compiled by**
-
-**Dr Jane Kelly (Charles Sturt University)**
+**Compiled by Dr Jane Kelly (Charles Sturt University)**
 
  ![Picture 1](RackMultipart20230302-1-z8asey_html_4f2c105310cf0455.gif)
 
 # **Contents**
-
-[Introduction - remote weed detection 3](#_Toc115961307)
-
-[Aims and applications of remote detection 3](#_Toc115961308)
-
-[Knowing your species and landscape 3](#_Toc115961309)
-
-[Data capture platforms 4](#_Toc115961310)
-
-[Know your aerial platform 4](#_Toc115961311)
-
-[Mission planning 4](#_Toc115961312)
-
-[Ground truthing protocols 4](#_Toc115961313)
-
-[Tips for using drones effectively 5](#_Toc115961314)
-
-[safety 5](#_Toc115961315)
-
-[image overlap and flight path design 5](#_Toc115961316)
-
-[altitude 5](#_Toc115961317)
-
-[camera angle 5](#_Toc115961318)
-
-[time of day and weather considerations 5](#_Toc115961319)
-
-[etc 5](#_Toc115961320)
-
-[Sensors 5](#_Toc115961321)
-
-[General considerations 5](#_Toc115961322)
-
-[RGB 5](#_Toc115961323)
-
-[Multispectral 5](#_Toc115961324)
-
-[Hyperspectral 5](#_Toc115961325)
-
-[Data processing 5](#_Toc115961326)
-
-[Outputs 6](#_Toc115961327)
-
-[Artificial Intelligence algorithms 6](#_Toc115961328)
-
-[Disadvantages of using remote sensing for weed control 6](#_Toc115961329)
-
-Publications……………………………………………………………………………………………………………………
-
-References……………………………………………………………………………………………………………………..
-
-##
-
-##
 
 ## Introduction - remote weed detection
 
@@ -74,8 +18,7 @@ However, there are numerous challenges associated with the use of this technolog
 
 ## Aims and applications of remote detection
 
-1.
-## Knowing your species and landscape
+### 1. Knowing your species and landscape
 
 - Weed phenology and temporal changes (JK & HC)
 - Look-alike species and phenology and temporal changes (JK & HC)
@@ -84,39 +27,35 @@ However, there are numerous challenges associated with the use of this technolog
 - Terrain access (RD)
 - Internet access for georeferencing (RD)
 
-1.
-## Data capture platforms
+### 2. Data capture platforms
 
 Ideas: Using project case studies to highlight aspects of each section – invite others to add their case studies to each section – could include a template to fill out on their work, with links to contacts/data.
 
-### Know your aerial platform
+#### Know your aerial platform
 
 **Unmanned Aerial Vehicles (UAVs) – features and considerations**
 
 UAVs come in a variety of types, shapes and sizes, with their design typically driven by application and endurance requirements. For example, large landscape surveys require UAV's that have long flight times and, in most cases, aeroplanes are a more suitable designed platform. Where smaller areas with variable terrain need to be covered then a multirotor may be more suitable.
 
-…………………
 
 Non-military, commercial UAV platform designs typically focus on aeroplanes, helicopters and multi-rotors. However, as the technology evolves there are numerous other UAV's that represent combinations of these designs. For survey related image capture, basic UAV platform examples are described below:
 
-_Aeroplanes:_
-
+*Aeroplanes:*  
 The electric-powered wing design is favoured by most manufactures in the survey market with average flight times ranging from 30-60 minutes equally approximately 180 - 300 acres in a single flight. Typically, these units are prepackaged with a high-resolution digital camera, while some also contain modified digital cameras capable of measuring a psuedo-NDVI. Flight height along with camera sensor and lens characteristics usually determines the size of pixel on the ground with spatial resolutions of 2- 4cm typically quoted by manufacturers. The flying wing designs are either catapult or hand launched allowing for greater portability in the field. The design typically provides good stability in windy environments with many manufactures quoting successful image capture in in winds up to 30-40 km/h. The leading manufacturers include the eBee Ag by SenseFly (approximately USD 25K) and AgEagle (approximately USD 15K), Trimble's UX5 (USD 50K) with many other suppliers now entering the survey UAV market. Commercial pricing is often dependent on the camera package and image processing choices associated with the plan. There are numerous other aeroplane designs such as high wing, mid wing, low wing platforms each having their own unique advantages and disadvantages related to flight duration, stability and takeoff and landing requirements. Most of these aeroplanes typically consists of a rigid wing with a predetermined airfoil capable of generating lift caused by the aeroplanes forward airspeed. Control surfaces such as the ailerons, elevator and rudder allow the aeroplanes direction and height to be controlled.
 
 Larger platforms are also available and these are capable of carrying multiple payloads along with potentially delivering nutrients and herbicides. However, the larger wingspans typically limit the portability of these platforms due to their size along with many of the platforms typically have wheeled undercarriages that require designated areas suitable for taking off and landing. However, increased flight times and multiple camera systems (mutlispectral, optical, hyperspectral, thermal) may offer advantages for mapping or monitoring larger more complex agricultural systems.
 
-Fig. 1. Image of aeroplane here from Remy
+**ToDo:** Fig. 1. Image of aeroplane here from Remy
 
-_Multi-rotors:_
+*Multi-rotors*:  
 
 Multi-rotors come in a number of designs e.g. quad, hex and octocopters named by the number of propellers used to launch the copter into the air. Multi-rotors can carry variable payloads depending on the design of the motor and propeller combination, but typical quadcopter systems have the greatest flight times but the least redundancy in terms of electronic or motor failure. Their ability to take off and hover directly at the site of interest along with their high maneuverability make them very useful in small survey applications. Flight times range from 10 minutes to up to 60 minutes in a very few high 7 end multi-copter platforms but flight times are typically reduced dramatically as payload is increased. The typical coverage ranges between 30-100 hectares for a 20-minute flight. DJI is one of the largest manufacturers of multi-copter turnkey systems along with 3DR Robotics whose open-source autopilot can be configured for a range of multi-copter, aeroplane and helicopter platforms. Pricing for multi-copter systems is extremely variable with DJI Phantom 3 quadcopter using a modified blue/NIR camera costing around USD $2500. Larger systems capable of carrying heavy payloads range in the USD$ 10-40K range. A good article showing a small range of the commercially available systems for agriculture can be found here: [http://dronelife.com/2015/10/14/7-best-agricultural-drones-market](http://dronelife.com/2015/10/14/7-best-agricultural-drones-market)
 
 ![](RackMultipart20230302-1-z8asey_html_39d114e45064a679.jpg)
 
-**Fig. 2**. M600 xxxxxx(include description from Remy). Source: Dr Jane Kelly, CSU
+**Fig. 2**. M600 **ToDo**(include description from Remy). Source: Dr Jane Kelly, CSU
 
-_Helicopters:_
-
+*Helicopters:*  
 Helicopters are to a lesser extent currently used for agricultural and environmental surveillance, typically because of their complexity and cost. Very few dedicated helicopter platforms have suitable reliable autopilot systems and those that do typically cost in the order of hundreds of thousands of dollars. However, many helicopter systems have great potential with the ability to land directly at the field site and hover extended periods of time. With further autopilot development, helicopters may benefit agriculture and environmental monitoring in areas outside remote sensing. Many of the large helicopters are capable of carrying large payloads in the order of 20-40kg for extended periods of times. This may be useful in areas such as herbicide and pesticide delivery along with nutrient delivery. A good example of the high-end helicopter is the Yamaha R-Max which is capable of carrying 28kg of payload and has both granular and liquid spraying capacities. Details of the R- MAX system can be found here http://rmax.yamaha-motor.com.au/specifications. Charles Sturt University and the author have developed a helicopter system capable of carrying a hyperspectral camera to determine if hyperspectral data enhances weed detection in weed trials.
 
 Details can be found here at [http://www.caws.org.au/awc/2012/awc201211031.pdf](http://www.caws.org.au/awc/2012/awc201211031.pdf)
